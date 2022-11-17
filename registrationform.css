@@ -1,0 +1,54 @@
+body{
+    background-color: blue;
+}
+
+.main{
+    padding: 20px;
+}
+
+.form h1{
+   font-size: 30px;
+   text-align: center;
+   text-decoration: underline;
+}
+
+.form label{ 
+   font-size: 15px;
+   font-weight: bold;
+}
+
+.form input{
+    font-size: 15px;
+    width: 98%;
+    height: 30px;
+}
+
+.table1{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    width: 50%;
+}
+
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    width: 90%;
+}
+
+td{
+    border:solid 1px whitesmoke;
+}
+
+th{
+    background-color: rgb(180, 180, 180);
+}
+
+.submitbtn{
+    background-color: rgb(19, 151, 19);
+    color: white;
+    width: 100%;
+    border: 1px solid black;
+}
